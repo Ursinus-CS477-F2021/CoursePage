@@ -73,11 +73,11 @@ Gaussian Naive Bayes for Continuous Data Distributions
 LECTURE
 Hidden Markov Models
 
-<ul><li><a href = "ClassExercises/Week6_HMM">Class notes on Hidden Markov Models / The Viterbi Algorithm</a></li><li><a href = "https://web.stanford.edu/~jurafsky/slp3/A.pdf">Jurafsky/Martin Notes on HMMs</a></li><li><a href = "https://aclanthology.org/J90-2002.pdf">A Statistical Approach To Machine Translation</a></li></ul>
+<ul><li><a href = "ClassExercises/Week6_HMM">Class notes on Hidden Markov Models / The Viterbi Algorithm</a></li><li><a href = "https://www.audiolabs-erlangen.de/resources/MIR/FMP/C5/C5S3_HiddenMarkovModel.html">FMP notes on HMMs</a></li><li><a href = "https://web.stanford.edu/~jurafsky/slp3/A.pdf">Jurafsky/Martin Notes on HMMs</a></li><li><a href = "https://aclanthology.org/J90-2002.pdf">A Statistical Approach To Machine Translation</a></li></ul>
 LECTURE
 The Viterbi Algorithm
 
-
+<ul><li><a href = "https://www.audiolabs-erlangen.de/resources/MIR/FMP/C5/C5S3_Viterbi.html">FMP notes on the Viterbi Algorithm</a></li></ul>
 LECTURE
 Bayes Filtering, Robot Localization Workshopping
 
